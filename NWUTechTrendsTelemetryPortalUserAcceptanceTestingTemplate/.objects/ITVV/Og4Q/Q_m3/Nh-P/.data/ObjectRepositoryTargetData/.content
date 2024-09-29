@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="RJZPr7wcKUa85f1KmZzgLA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://techtrendstelemetryportal.azurewebsites.net/clients" CVScreenId="ed5304a8-981c-4ccd-a7b1-faf1d771e694" CvElementArea="1709, 421, 164, 70" CvType="Button" DesignTimeRectangle="1710, 422, 161, 66" DesignTimeScaleFactor="1.5" ElementType="Button" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl aaname=' Create         ' tag='BUTTON' type='' class='btn beveled-button-primary' check:innerText='Create' /&gt;" Guid="bfe43d69-2152-43a6-a15f-3309a7886323" ScopeSelectorArgument="&lt;html app='msedge.exe' title='techtrendstelemetryportal.azurewebsites.net/clients' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="9379df3747ad6e6a599ab2afdc60ffee.png" xmlns="">0S2vh1rwE0EKusRzU807KsQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

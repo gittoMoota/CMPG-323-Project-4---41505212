@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="z7Dbxqs-OUe4QotHFj-4Ng" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://techtrendstelemetryportal.azurewebsites.net/create-project" CVScreenId="dbd41ae7-f6a7-459c-9123-65ebd4b11bda" CvTextArea="456, 648, 130, 28" CvTextArgument="mm/dd/yyyy" CvType="Text" DesignTimeRectangle="440, 633, 1449, 56" DesignTimeScaleFactor="1.5" ElementType="InputBox" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl id='projectCreationDate' tag='INPUT' type='date' class='form-control valid' aaname='Project Creation Date' /&gt;" Guid="3bef383d-b3f9-4839-9945-7a026788e056" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='techtrendstelemetryportal.azurewebsites.net/create-project' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="dbd41ae7-f6a7-459c-9123-65ebd4b11bda" CvTextArea="438, 603, 231, 27" CvTextArgument="Project Creation Date" CvType="Text" DesignTimeRectangle="440, 597, 229, 36" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Project Creation Date' tag='LABEL' type='' class='' check:innerText='Project Creation Date' /&gt;" Guid="44ed02d7-7ed7-45d6-a7ed-2e024708e479" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9dcd4ffbff964fb3bfb19c7fcc952a5b.png" xmlns="">06tuDE9ASX0u1lvvu1FV9yQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
